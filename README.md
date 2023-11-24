@@ -9,8 +9,8 @@ I'm an AI student, enthusiastic about coding and learning new things through it.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://deploy-preview-259--the-simplefolio.netlify.app/)
 * ✉️  You can contact me at [singhvi2104@gmail.com](mailto:singhvi2104@gmail.com)
-* 🚀  I'm currently working on [Face Recognition Website](http://github.com/tanvi2104/Face_Recognition_Website)
-* 🧠  I'm learning React and PostgreSQL
+* 🚀  I'm currently working on [PVR FS Website](http://github.com/tanvi2104/PVRtrading)
+* 🧠  I'm learning React and Next Js
 * 🤝  I'm open to collaborating on FrontEnd projects
 * ⚡  I love reading, painting and cycling!
 
